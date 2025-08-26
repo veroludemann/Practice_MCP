@@ -1,0 +1,5 @@
+Documentacion Git
+https://github.com/microsoft/lets-learn-mcp-javascript
+
+install mcp inspector
+https://github.com/modelcontextprotocol/inspector
